@@ -9,3 +9,9 @@ A set of various inner and outer manuals, articles and tutorials whereby I lean 
     <div>
         <a href="https://www.jefftk.com/p/the-revenge-of-the-ie-box-model">The revenge of the IE Box model — Jeff Kaufman</a>
     </div>
+
+<h3>Colors</h3>
+<h3>Palettes</h3>
+    <div>
+        <a href="https://www.jefftk.com/p/the-revenge-of-the-ie-box-model">Pleasing color palettes — Chris Coyler</a>
+    </div>
