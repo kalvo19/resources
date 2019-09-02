@@ -12,7 +12,7 @@ A set of various inner and outer manuals, articles and tutorials whereby I lean 
 
 <h3>Colors</h3>
     <div>
-        <a href="https://www.jefftk.com/p/the-revenge-of-the-ie-box-model">Pleasing color palettes — Chris Coyler</a>
+        <a href="https://css-tricks.com/re-pleasing-color-palettes/">Pleasing color palettes — Chris Coyler</a>
     </div>
 <h2>PHP</h2>
 <h3>Laravel</h3>
