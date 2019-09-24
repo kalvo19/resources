@@ -27,5 +27,5 @@ A set of various inner and outer manuals, articles, and tutorials whereby I lean
     <a href="https://help.dreamhost.com/hc/en-us/articles/214202148-How-do-I-change-the-PHP-version-my-shell-uses-">Creating an alias to use PHP CLI when accessing to a shared hosting via SSH</a>
     </div>
 <h3>PSR-4 Specification</h3>
-    <a href="https://www.youtube.com/watch?v=VGSerlMoIrY">PHP PSR-4 Autoloading Made Easy</a>
+    <a href="https://www.youtube.com/watch?v=VGSerlMoIrY">PHP PSR-4 Autoloading Made Easy — Codecourse</a>
     </div>
