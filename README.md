@@ -14,6 +14,8 @@ A set of various inner and outer manuals, articles, and tutorials whereby I lean
     <div>
         <a href="https://css-tricks.com/re-pleasing-color-palettes/">Pleasing color palettes — Chris Coyler</a>
     </div>
+<h3>BEM (Block Element Modifier)</h3>
+    <a href="https://csswizardry.com/2015/08/bemit-taking-the-bem-naming-convention-a-step-further/">BEMIT: Taking the BEM Naming Convention a Step Further — Harry Roberts</a>
 <h2>PHP</h2>
 <h3>Laravel</h3>
     <div> 
