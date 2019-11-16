@@ -23,6 +23,9 @@ A set of various inner and outer manuals, articles, and tutorials whereby I lean
     <div> 
         <a href="https://stackoverflow.com/questions/30750182/laravel-5-on-shared-hosting-getting-internal-server-error">Setting the <code>.htaccess</code> of the project root to make all routes working in a shared hosting</a>
     </div>
+    <div>
+    <a href="https://blog.hashvel.com">Resourceful Laravel articles</a>
+    </div>
 <h3>Slim Framework</h3>
     <div> 
         <a href="https://akrabat.com/a-first-look-at-slim-4/">A first look at Sim 4 — Rob Allen</a>
