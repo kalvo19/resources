@@ -36,3 +36,5 @@ A set of various inner and outer manuals, articles, and tutorials whereby I lean
 <h3>PSR-4 Specification</h3>
     <a href="https://www.youtube.com/watch?v=VGSerlMoIrY">PHP PSR-4 Autoloading Made Easy — Codecourse</a>
     </div>
+<h3>Symfony</h3>
+    <a href="https://hackerbox.io/articles/symfony-4-parcel/">Symfony 4: Using ParcelJS with Twig Templates</a>
