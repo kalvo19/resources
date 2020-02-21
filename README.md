@@ -18,6 +18,8 @@ A set of various inner and outer manuals, articles, and tutorials whereby I lean
     <a href="https://csswizardry.com/2015/08/bemit-taking-the-bem-naming-convention-a-step-further/">BEMIT: Taking the BEM Naming Convention a Step Further — Harry Roberts</a>
     <h3>SASS</h3>
     <a href="https://browserstrangeness.github.io/css_hacks.html">Browser Hacks to apply CSS Rules to a specific browser — Jeff Clayton</a>
+    <h3>Line Clampin</h3>
+    <a href="https://css-tricks.com/line-clampin/">Line Clampin’ (Truncating Multiple Line Text)<a/>
 <h2>PHP</h2>
 <h3>Laravel</h3>
     <div> 
