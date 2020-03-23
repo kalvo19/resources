@@ -16,6 +16,7 @@ A set of various inner and outer manuals, articles, and tutorials whereby I lean
     </div>
 <h3>BEM (Block Element Modifier)</h3>
     <a href="https://csswizardry.com/2015/08/bemit-taking-the-bem-naming-convention-a-step-further/">BEMIT: Taking the BEM Naming Convention a Step Further — Harry Roberts</a>
+    <a hre="https://github.com/10up/Engineering-Best-Practices/issues/242">CSS / SASS architecture using ITCSS or similar approach</a>
     <h3>SASS</h3>
     <a href="https://browserstrangeness.github.io/css_hacks.html">Browser Hacks to apply CSS Rules to a specific browser — Jeff Clayton</a>
     <h3>Text</h3>
