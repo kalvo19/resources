@@ -43,6 +43,11 @@ A set of various inner and outer manuals, articles, and tutorials whereby I lean
         </a>
     </div>
     <div>
+        <a href="https://www.youtube.com/playlist?list=PLpKWS6gp0jd-nJe6BFgHT06APfxp5YIsL">
+            Laravel Authentication (Spanish Tutorial)
+        </a>
+    </div>
+    <div>
         <a href="https://blog.hashvel.com">
             Resourceful Laravel articles
         </a>
