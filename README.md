@@ -14,14 +14,26 @@ A set of various inner and outer manuals, articles, and tutorials whereby I lean
     <div>
         <a href="https://css-tricks.com/re-pleasing-color-palettes/">Pleasing color palettes — Chris Coyler</a>
     </div>
+<h3>ITCSS</h3>
+    <div>
+        <a href="https://github.com/10up/Engineering-Best-Practices/issues/242">
+            CSS / SASS architecture using ITCSS or similar approach
+        </a>
+    </div>
+    <div>
+        <a href="https://github.com/csswizardry/frcss/blob/master/main.scss">
+            CSS / SASS Approach example using ITCSS
+        </a>
+    </div>
+    <div>
+        <a href="https://www.xfive.co/blog/itcss-scalable-maintainable-css-architecture/">
+            ITCSS: Scalable and Maintainable CSS Architecture — Lubos Kmetko
+        </a>
+    </div>
 <h3>BEM (Block Element Modifier)</h3>
     <div>
         <a href="https://csswizardry.com/2015/08/bemit-taking-the-bem-naming-convention-a-step-further/">
             BEMIT: Taking the BEM Naming Convention a Step Further — Harry Roberts
-        </a>
-    <div>
-        <a href="https://github.com/10up/Engineering-Best-Practices/issues/242">
-            CSS / SASS architecture using ITCSS or similar approach
         </a>
     </div>
     <h3>SASS</h3>
