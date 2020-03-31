@@ -74,6 +74,11 @@ A set of various inner and outer manuals, articles, and tutorials whereby I lean
             Creating an alias to use PHP CLI when accessing to a shared hosting via SSH
         </a>
     </div>
+    <div>
+        <a href="https://laracasts.com/discuss/channels/general-discussion/where-do-you-set-public-directory-laravel-5">
+            [Thread] Different ways to set the public folder when deploying a Laravel application
+        </a>
+    </div>
 <h3>PSR-4 Specification</h3>
     <div>
         <a href="https://www.youtube.com/watch?v=VGSerlMoIrY">
